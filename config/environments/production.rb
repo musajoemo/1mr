@@ -69,9 +69,9 @@ Omr::Application.configure do
    config.paperclip_defaults = {
      :storage => :s3,
      :s3_credentials => {
-      :bucket => "onemonthrailsind",
-      :access_key_id => "AKIAI26GBI6GLQT422DQ",
-      :secret_access_key => "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"
+      :bucket => "XXX",
+      :access_key_id => "XXX",
+      :secret_access_key => "XXX"
      }
    }
 end
